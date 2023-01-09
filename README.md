@@ -1,3 +1,3 @@
-# Alpha-research
-The following project aims at creating a template to retrieve, clean, analyse and model financial time series dataand apply machine learning techniques
+# ML Alpha ensamble
+Basic ensambling of ML models to forecast time series data
 
